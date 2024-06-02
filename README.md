@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Analytics Skills**
 
-- 🌱 I’m currently learning **SQL,Python,Power BI,Tableau**
+- 🌱 I’m currently learning **SQL,Python,Power BI,Tableau, Advanced MSExcel**
 
 - - 💬 Ask me about **Anything**
 
